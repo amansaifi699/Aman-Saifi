@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ojas Gupta!
+# 👋 Hey, I'm Aman!
 
 <div align="center">
 
@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/ojas-gupta-883804278/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ojasgupta2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/aman-b8808924a/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:amanshooter4@gmail.com)
 
 </div>
 
@@ -16,9 +16,9 @@
 ## 🧑‍💻 About Me
 
 ```python
-class OjasGupta:
+class Aman:
     def __init__(self):
-        self.name = "Ojas Gupta"
+        self.name = "Aman"
         self.role = "Computer Science Engineer"
         self.focus = "Artificial Intelligence & Machine Learning"
         
@@ -40,7 +40,7 @@ class OjasGupta:
     def say_hi(self):
         print("Building intelligent solutions with code, data & AI 🤖")
 
-me = OjasGupta()
+me = Aman()
 me.say_hi()
 ```
 
@@ -89,9 +89,9 @@ me.say_hi()
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Full Stack
 
@@ -117,7 +117,7 @@ me.say_hi()
 
 ## 🤖 Smart Traffic Management System
 
-<a href="https://github.com/ojas-03/STMS">
+<a href="https://github.com/amansaifi699/Smart-Traffic-Management-System">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -141,18 +141,37 @@ A smart traffic management system designed to analyze traffic conditions and dyn
 
 ---
 
-## 🎮 Space Invaders — AI / Python Project
+## 🩺 AI-Based Medical Diagnosis System
 
-<a href="https://github.com/ojas-03/Space-Invaders-Pygame-">
+<a href="https://github.com/amansaifi699/Ai-medical-diagnosis/">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-A Python-based implementation of the classic Space Invaders arcade game, focused on game logic, object interaction and event-driven programming.
+### 🧠 Deep Learning–Based Chest X-ray Classification
+
+An end-to-end deep learning system for analyzing Chest X-ray images and classifying them into **Normal, COVID-19, and Pneumonia** categories.
+
+The project explores **Convolutional Neural Networks (CNNs)** and **Transfer Learning using ResNet50** to build an image classification pipeline, covering data preprocessing, model training, evaluation, and visualization.
+
+**Key Areas:**
+- 🩻 Chest X-ray image classification
+- 🧠 Convolutional Neural Networks (CNN)
+- 🔄 Transfer Learning with ResNet50
+- 📊 Model evaluation & performance analysis
+- 🔍 Grad-CAM for visualizing important image regions
+- ⚙️ End-to-end ML pipeline development
 
 **Tech Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=flat\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+
+> **Note:** This is an academic/learning-oriented project and is not intended for clinical diagnosis or medical decision-making.
 
 ---
 
@@ -241,7 +260,7 @@ Developed practical knowledge of data analysis, visualization and working with P
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ojas-03?theme=dark&font=Baloo+Bhai&ext=heatmap" alt="LeetCode Profile" />
+<img src="https://leetcard.jacoblin.cool/" alt="LeetCode Profile" />
 
 </div>
 
@@ -253,13 +272,13 @@ Developed practical knowledge of data analysis, visualization and working with P
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojas-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansaifi699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansaifi699&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
 
 </a>
 
@@ -269,7 +288,7 @@ Developed practical knowledge of data analysis, visualization and working with P
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ojas-03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=amansaifi699&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -279,7 +298,7 @@ Developed practical knowledge of data analysis, visualization and working with P
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=amansaifi699&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -289,7 +308,7 @@ Developed practical knowledge of data analysis, visualization and working with P
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansaifi699&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -319,17 +338,17 @@ I'm interested in opportunities where I can work on:
 
 ### Interested in AI, Machine Learning or building something cool?
 
-<a href="http://www.linkedin.com/in/ojas-gupta-883804278/">
+<a href="https://www.linkedin.com/in/aman-b8808924a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:ojasgupta2003@gmail.com">
+<a href="mailto:amanshooter4@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ojas-03&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=amansaifi699&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" />
 
 ### ⭐ Thanks for visiting!
 
