@@ -15,34 +15,96 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Aman:
-    def __init__(self):
-        self.name = "Aman"
-        self.role = "Computer Science Engineer"
-        self.focus = "Artificial Intelligence & Machine Learning"
-        
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Data Analytics",
-            "Deep Learning",
-            "Full Stack Development"
-        ]
-        
-        self.currently_exploring = [
-            "ML Model Development",
-            "Data Analysis & Visualization",
-            "AI-powered Applications",
-            "Backend Development"
-        ]
+<div align="center">
 
-    def say_hi(self):
-        print("Building intelligent solutions with code, data & AI 🤖")
+### 👋 Hey! I'm Aman
 
-me = Aman()
-me.say_hi()
+🤖 **AI/ML Enthusiast**   •   📊 **Data Analytics**   •   💻 **Software Developer**
+
+</div>
+
+<br>
+
+<details>
+<summary>🤖 <b>What am I into?</b></summary>
+
+<br>
+
+* 🧠 **Artificial Intelligence & Machine Learning**
+* 🔬 **Deep Learning & Computer Vision**
+* 📊 **Data Analysis & Visualization**
+* 🐍 **Python & ML Development**
+* 🌐 **Full Stack Development**
+* 🚀 **Building AI-powered applications**
+
+</details>
+
+<details>
+<summary>🛠️ <b>What do I work with?</b></summary>
+
+<br>
+
+**AI / ML**
+
+`Python` `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy`
+
+**Data**
+
+`Data Analysis` `Data Visualization` `Matplotlib` `Tableau`
+
+**Development**
+
+`C++` `JavaScript` `React` `Node.js` `MySQL` `MongoDB`
+
+**Tools**
+
+`Git` `GitHub` `Google Colab` `AWS`
+
+</details>
+
+<details>
+<summary>🔭 <b>What am I currently exploring?</b></summary>
+
+<br>
+
+```text
+🧠 Machine Learning
+   └── Model development & evaluation
+
+👁️ Computer Vision
+   └── Image classification & analysis
+
+📊 Data Analytics
+   └── Extracting insights from real-world data
+
+🚀 AI Engineering
+   └── Building & deploying AI-powered applications
 ```
+
+</details>
+
+<details>
+<summary>🎯 <b>What am I looking for?</b></summary>
+
+<br>
+
+I'm interested in opportunities involving:
+
+🤖 **AI / Machine Learning**
+🔬 **Computer Vision**
+📊 **Data Analytics / Data Science**
+💻 **Software Development**
+🚀 **AI-powered products & applications**
+
+</details>
+
+<br>
+
+<div align="center">
+
+### 💡 Build → Learn → Experiment → Repeat
+
+</div>
 
 🎓 **B.Tech Computer Science & Engineering Graduate**
 
